@@ -11,7 +11,7 @@
 
 ###
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://camo.githubusercontent.com/e95e983472ef8b417f5624bcd10e7041a72042706c4a1b1c9c02428ce77c60b7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d616a68636326686964655f7469746c653d7472756526686964655f626f726465723d74727565267468656d653d746f6b796f6e69676874)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=java)&nbsp;
 ![.NET](https://img.shields.io/badge/-%20.Net-05122A?style=flat&logo=dotnet)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
